@@ -3,6 +3,7 @@
 这是从刚开始学爬虫就开始做的项目了吧，断断续续差不多两年把这个东西弄好，放在这儿留个纪念
 ## Content
 [TOC]
+
 ### Intro
 通过爬虫获取[51VOA常速英语](http://www.51voa.com/VOA_Standard_English/)的当日文章并存放在docx文档
 ### Requirements
@@ -32,6 +33,7 @@ virtualenv Scrapy -p python3
 cd Scrapy
 git clone git@github.com:OneSehll/VOA_Web_Crawler.git
 ```
+
 然后安装上面提到的Python库
 OK！Good Luck！
 - 
